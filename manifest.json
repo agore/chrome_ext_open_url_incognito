@@ -1,6 +1,6 @@
 {
-  "name": "Hello Extensions",
-  "description" : "Base Level Extension",
+  "name": "Open In Incognito",
+  "description" : "Open current URL in an Incgnito Window",
   "version": "1.0",
   "browser_action": {
     "default_title": "Open in Incognito",
@@ -20,7 +20,7 @@
         "default": "Ctrl+Shift+F",
         "mac": "Ctrl+Shift+I"
       },
-      "description": "Opens hello.html"
+      "description": "Open current URL in an Incgnito Window"
     }
   }
 }
