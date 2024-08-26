@@ -1,5 +1,5 @@
 {
-  "name": "Open In Incognito",
+  "name": "Open In Incognito mode",
   "description" : "Open current URL in an Incgnito Window",
   "version": "1.0",
   "browser_action": {
